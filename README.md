@@ -2,12 +2,12 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=rcebrian&hide=[%22stars%22]&show_icons=true" alt="rcebrian" /> 
 
-### Hi, I'm Rodrigo Cebrián (22)
+### Hi, I'm Rodrigo Cebrián (23)
 
+- 🏢 Applications Consultant at [Capgemini](https://www.capgemini.com)
 - 📚 I’m a Computer Science student in the [European University of Madrid](https://universidadeuropea.es/madrid "Universidad Europea de Madrid Homepage")
 - 🏡 Currently living in Madrid, Spain
 - 💻 Trying to learn everything about tech
-- 🥅 2020 Goals: Finish my college degree and start working 
 - ⚡ Fun fact: I love Machine Learning and trying to find more about Full Stack Web Development and Cyber Security.
 
 <br>
