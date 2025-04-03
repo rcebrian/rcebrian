@@ -5,7 +5,7 @@
 ### Hi, I'm Rodrigo Cebrián (24)
 - 📚 Software Engineer
 - 🏡 Madrid, Spain
-- 🏢 E-Commerce developer at [El Corte Inglés](https://www.elcorteingles.es)
+- 🏢 Software Architect at [El Corte Inglés](https://www.elcorteingles.es)
 - ⚡ Fun fact: I love Full Stack development, currently I'm learning about how Machine Learning help in daily things
 
 <br>
